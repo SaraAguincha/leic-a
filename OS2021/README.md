@@ -33,3 +33,6 @@ de dados mantém a respetiva tabela, que representa o conjunto de ficheiros (fic
 Cada entrada na tabela de uma diretoria consiste num par (nome, i-number). O conjunto destes pares
 permite enumerar quais os nomes dos ficheiros incluídos numa diretoria, assim como aceder aos
 dados e meta-dados desses ficheiros (indexando a tabela de i-nodes pelo i-number do ficheiro pretendido). 
+
+## Collaborators:
+[Mariana-droid](https://github.com/Mariana-droid "Mariana-Droid Profile")
