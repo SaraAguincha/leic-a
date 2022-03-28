@@ -34,5 +34,5 @@ Cada entrada na tabela de uma diretoria consiste num par (nome, i-number). O con
 permite enumerar quais os nomes dos ficheiros incluídos numa diretoria, assim como aceder aos
 dados e meta-dados desses ficheiros (indexando a tabela de i-nodes pelo i-number do ficheiro pretendido). 
 
-## Collaborators:
+# Collaborators:
 [Mariana-droid](https://github.com/Mariana-droid "Mariana-Droid Profile")
