@@ -15,5 +15,5 @@ Seguidamente basta invocar o metodo main:
 java woo.app.App
 ```
 
-## Collaborators:
+# Collaborators:
 [Mariana-droid](https://github.com/Mariana-droid "Mariana-Droid Profile")
