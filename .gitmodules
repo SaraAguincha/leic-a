@@ -1,3 +1,6 @@
 [submodule "RC2122/CompNetworks2022"]
 	path = RC2122/CompNetworks2022
 	url = https://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@github.com/FunkyCracky/CompNetworks2022
+[submodule "HCI2021/IPM20-21"]
+	path = HCI2021/IPM20-21
+	url = https://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@github.com/franciscomcsousa/IPM20-21.git
