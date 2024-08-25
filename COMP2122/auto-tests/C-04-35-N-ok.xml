@@ -1,0 +1,34 @@
+<sequence_node size='2'>
+  <variable_declaration_node name='x' qualifier='private' type='integer'>
+  </variable_declaration_node>
+  <program_node>
+      <block_node>
+      <declarations>
+          <sequence_node size='0'>
+          </sequence_node>
+      </declarations>
+      <instructions>
+          <sequence_node size='3'>
+            <evaluation_node>
+              <assignment_node>
+              <variable_node>x</variable_node>
+                  <integer_node>4</integer_node>
+              </assignment_node>
+            </evaluation_node>
+            <print_node>
+              <arguments>
+                <sequence_node size='1'>
+                  <rvalue_node>
+                      <variable_node>x</variable_node>
+                  </rvalue_node>
+                </sequence_node>
+              </arguments>
+            </print_node>
+            <return_node>
+                <integer_node>0</integer_node>
+            </return_node>
+          </sequence_node>
+      </instructions>
+      </block_node>
+  </program_node>
+</sequence_node>

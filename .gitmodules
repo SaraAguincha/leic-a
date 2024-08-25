@@ -4,3 +4,9 @@
 [submodule "HCI2021/IPM20-21"]
 	path = HCI2021/IPM20-21
 	url = https://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@github.com/franciscomcsousa/IPM20-21.git
+[submodule "AI2122"]
+	path = AI2122
+	url = https://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@github.com/franciscomcsousa/AI2122.git
+[submodule "CG2122"]
+	path = CG2122
+	url = https://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@github.com/DiogoSantoss/CG2122.git

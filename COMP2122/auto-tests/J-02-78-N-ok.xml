@@ -1,0 +1,27 @@
+<program_node>
+    <block_node>
+    <declarations>
+        <sequence_node size='0'>
+        </sequence_node>
+    </declarations>
+    <instructions>
+        <sequence_node size='2'>
+          <return_node>
+              <integer_node>0</integer_node>
+          </return_node>
+          <print_node>
+            <arguments>
+              <sequence_node size='1'>
+                <function_call_node expression='0x55f45fd66320'>
+                <arguments>
+                    <sequence_node size='0'>
+                    </sequence_node>
+                </arguments>
+                </function_call_node>
+              </sequence_node>
+            </arguments>
+          </print_node>
+        </sequence_node>
+    </instructions>
+    </block_node>
+</program_node>

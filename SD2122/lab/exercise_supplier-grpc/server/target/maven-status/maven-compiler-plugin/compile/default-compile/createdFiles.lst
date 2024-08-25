@@ -1,0 +1,6 @@
+pt/tecnico/supplier/domain/Product.class
+pt/tecnico/supplier/domain/InputException.class
+pt/tecnico/supplier/domain/Supplier.class
+pt/tecnico/supplier/SupplierServiceImpl.class
+pt/tecnico/supplier/SupplierServer.class
+pt/tecnico/supplier/domain/Supplier$SingletonHolder.class

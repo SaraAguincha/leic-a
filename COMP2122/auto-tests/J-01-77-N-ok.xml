@@ -1,0 +1,23 @@
+<program_node>
+    <block_node>
+    <declarations>
+        <sequence_node size='0'>
+        </sequence_node>
+    </declarations>
+    <instructions>
+        <sequence_node size='2'>
+          <return_node>
+              <integer_node>0</integer_node>
+          </return_node>
+          <evaluation_node>
+            <function_call_node expression='0x564e47fe72c0'>
+            <arguments>
+                <sequence_node size='0'>
+                </sequence_node>
+            </arguments>
+            </function_call_node>
+          </evaluation_node>
+        </sequence_node>
+    </instructions>
+    </block_node>
+</program_node>

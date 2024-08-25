@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="supplier-server" />
+        <module name="supplier-contract" />
+        <module name="supplier-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="supplier-client" target="11" />
+      <module name="supplier-contract" target="11" />
+      <module name="supplier-grpc" target="1.5" />
+      <module name="supplier-server" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
